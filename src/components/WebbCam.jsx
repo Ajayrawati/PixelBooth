@@ -198,7 +198,7 @@ function WebbCam() {
             <div className="flex flex-col items-center space-y-4">
                 {/* Webcam Container */}
                 <div ref={captureRef} className="relative bg-[#232222] w-[90%] h-600 flex justify-center items-center rounded-3xl my-20 mx-auto  py-1 overflow-hidden
-                md:w-[90%] md:h-[90vw] max-w-[700px] max-h-[450px]">
+                md:w-[90%] md:h-[90vw] max-w-[700px] max-h-[400px]">
 
                     <Webcam
 
